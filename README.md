@@ -77,4 +77,4 @@ After a few weeks this folder knows your defensible numbers cold, the phrasings 
 which companies ghosted you and why, and what you said in every interview. Draft one starts
 at the quality draft ten used to be.
 
-Built by [Nataly Chacon](https://linkedin.com/in/nataly-chacon). Free to copy and fork.
+Built by [Nataly C](https://linkedin.com/in/nataly-chacon). Free to copy and fork.
